@@ -19,7 +19,7 @@ A PDF documentation is available at the root of the project.
 ##Live Version
 
 This app is available via the following link:
-http://www.claudegauthier.net/demos/Broadridge/index.html
+http://www.claudegauthier.net/demos/rawMVC/index.html
 
 
 ##Tools
