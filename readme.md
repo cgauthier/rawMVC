@@ -12,10 +12,6 @@ This was tested on a Windows 7 PC with the following browsers:
 * Firefox 43.0.1
 * Chrome 47.0.2526.106 m
 
-##Documentation
-
-A PDF documentation is available at the root of the project.
-
 ##Live Version
 
 This app is available via the following link:
